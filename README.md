@@ -9,6 +9,9 @@
 <p>Need For Speed is a fun game to play especially <strong>the run</strong>. <a href="https://www.ea.com/games/need-for-speed/need-for-speed-the-run" 
 title="need for speed the run">NFS</a>.
 </p> <img src="https://www.motortrend.com/uploads/sites/5/2012/02/Need-for-Speed-The-Run-screenshot-BMW-M3.jpg?fit=around%7C770:481.25">
+    <br>
+    <br>
+    <br>
     
     <a href="fancifymytext.html" >Assignment4</a>
   </body>
