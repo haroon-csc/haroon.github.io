@@ -21,6 +21,7 @@ if (document.getElementById("Nice2").checked){
     document.getElementById("texter").style.color = "black";
     document.getElementById("texter").style.textDecoration = "none";
     document.getElementById("texter").style.fontSize = "11pt";
+    document.getElementById("texter").style.textTransform = "lowercase";
   }
 }
 
